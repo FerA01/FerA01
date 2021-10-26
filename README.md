@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FerA01
-- 👀 I’m interested in Backend development.
-- 🌱 I’m currently learning Java, Python and Database.
+- 👀 I am interested in backend and mobile development
+- 🌱 I currently have basic knowledge in Java, Python and databases.
 - 💞️ I’m looking to collaborate on personal proyects.
 - 📫 How to reach me: fernandoandana98@gmail.com
 
