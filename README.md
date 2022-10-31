@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Fernando Andana
 - 👀 I am interested in backend and mobile development
-- 🌱 I currently have basic knowledge in Java, Python and SQL.
-- 💞️ I’m looking to collaborate on personal proyects.
+- 🌱 I currently have basic knowledge in Java, Spring Boot Framework, Python and SQL.
 - 📫 How to reach me: fernandoandana98@gmail.com
 
 <!---
